@@ -1,0 +1,15 @@
+backward(1)
+paintwhite
+right
+forward(2)
+left
+forward(2)
+left
+forward(2)
+left
+forward(2)
+backward(4)
+left
+forward(2)
+right
+forward(2)
